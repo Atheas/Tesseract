@@ -1,5 +1,9 @@
 # Tesseract OCR
 
+Python Wrapper for this repo:
+https://pypi.org/project/pytesseract/
+Used to convert image texts in to actual texts
+
 [![Build Status](https://travis-ci.org/tesseract-ocr/tesseract.svg?branch=master)](https://travis-ci.org/tesseract-ocr/tesseract)
 [![Build status](https://ci.appveyor.com/api/projects/status/miah0ikfsf0j3819/branch/master?svg=true)](https://ci.appveyor.com/project/zdenop/tesseract/)
 ![Build status](https://github.com/tesseract-ocr/tesseract/workflows/windows/badge.svg)<br>
